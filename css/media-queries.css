@@ -1,0 +1,38 @@
+@media only screen and (max-width: 600px) {
+    .navbar-list{
+       display: none;
+    }
+
+    .logo-container{
+        position: absolute;
+        left: 10px;
+    }
+
+    .cards-container{
+        flex-direction: column;
+        justify-content: center;
+        top: 1100px;
+        left: 70px;
+    }
+
+    .cards{
+        width: 70%;
+        margin-top: 30px;
+    }
+
+    .explore-section{
+        position: relative;
+        top: 800px;
+    }
+
+    .explore-cards-container{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        left: 50px;
+    }
+
+    .explore-section-title-container{
+        margin-left: 10px;
+    }
+} 

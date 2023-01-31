@@ -23,6 +23,11 @@
     background-color: Transparent;
     color: white;
     padding: 5px;
-    margin-top: 10px;
+    margin-top: 20px;
     cursor: pointer;
+}
+
+.hero-title{
+    font-size: 32px;
+    margin-bottom: 10px;
 }
